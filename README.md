@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 ## 기술 스택
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+
+
+![Git][![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SometimesThinks)](https://github.com/anuraghazra/github-readme-stats)
