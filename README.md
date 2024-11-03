@@ -5,6 +5,7 @@
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :wave: Introduction </h2>  
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 프론트엔드 개발자를 지망하고 있어요. </div> 
+    <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 새로움과 변화가 두렵지 않아요. </div> 
 </div>
 
 <div align="center">
