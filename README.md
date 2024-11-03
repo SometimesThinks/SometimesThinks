@@ -4,7 +4,7 @@
 
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :wave: Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 저는 프론트엔드 개발자를 지망하고 있어요. </div> 
+    <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 프론트엔드 개발자를 지망하고 있어요. </div> 
 </div>
 
 <div align="center">
@@ -16,7 +16,9 @@
         <br/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+        <br/>
         <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+        <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
         <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
